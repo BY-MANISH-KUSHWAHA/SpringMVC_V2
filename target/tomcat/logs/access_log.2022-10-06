@@ -1,0 +1,2 @@
+127.0.0.1 - - [06/Oct/2022:14:32:50 +0530] "GET /spring/ HTTP/1.1" 200 24 http-bio-8080-exec-1 51
+127.0.0.1 - - [06/Oct/2022:14:32:50 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 4
